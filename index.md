@@ -1,6 +1,8 @@
 ## Explanation of Literature Classification Logic
 **Topics** are categorized according to the research core and modeling ideas that the literature focuses on: for example, SRC and compressed sensing belong to “basic theory”, structured a priori belongs to “structured sparsity”, and those that are combined with CNN belong to “deep sparsity”, and those that are combined with CNN belong to “deep sparsity”.
+
 **The methodology classification** is based on the methodology used in the research, including theoretical analysis (optimization), empirical testing, and whether or not weakly supervised methods are used.
+
 **The application area classification** focuses on practical task scenarios (e.g., face recognition, medical images, signal processing, etc.), which facilitates the subsequent analysis of task-specific effects.
 
 ## Literature classification table
